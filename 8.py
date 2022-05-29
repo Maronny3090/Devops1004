@@ -4,3 +4,4 @@ fibo.fib(100)
 from fibo import fib
 fib(100)
 
+print(*ex*)
