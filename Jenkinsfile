@@ -4,7 +4,7 @@ node {
  git "https://github.com/Maronny3090/Devops1004.git"
  }
 stage ("show files"){
-    sh "ls-l"
+    sh "ls -l"
 }
 
 }
